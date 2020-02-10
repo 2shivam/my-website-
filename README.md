@@ -2,6 +2,6 @@
 
 This is really an awesome website
 
-Now updating on update-readme.
+Updates made on master on github before rebase
 
-Adding more lines in update-readm, here's one more addition.
+
